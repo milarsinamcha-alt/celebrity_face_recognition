@@ -1,5 +1,7 @@
 ![](ui_snapshot.jpg)
 
+Note: This project was completed as part of the Codebasics Data Science Roadmap (#dsroadmap24) tutorial by Dhaval Patel. It follows the tutorial step-by-step to practice key data science concepts, including data cleaning, feature engineering, model building, and deployment using Python and Flask.
+
 In this data science and machine learning project, we classify sports personalities. We restrict classification to only 5 people,
 1) Maria Sharapova
 2) Serena Williams
